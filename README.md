@@ -1,3 +1,3 @@
 # hello-world
-This is my first repository.\n
+This is my first repository.
 Test 123
